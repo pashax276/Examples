@@ -1,4 +1,4 @@
-package ForDemo;
+package Ch1.ForDemo;
 
 /**
  * Created by pasha on 10/14/16.

@@ -1,4 +1,4 @@
-package GalToLit;
+package Ch1.GalToLit;
 
 /**
  * Created by pasha on 10/14/16.

@@ -1,4 +1,4 @@
-package BlockDemo;
+package Ch1.BlockDemo;
 
 /**
  * Created by pasha on 10/14/16.

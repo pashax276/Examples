@@ -1,4 +1,4 @@
-package IfDemo;
+package Ch1.IfDemo;
 
 /**
  * Created by pasha on 10/14/16.
